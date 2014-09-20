@@ -1,6 +1,7 @@
 # Welcome
 
 Metro UI CSS a set of styles to create a site with an interface similar to Windows 8 Metro UI. This set of styles was developed as a self-contained solution.
+This repo is modified by c0710204 to work as CMD module
 
 ## Current Version
 
