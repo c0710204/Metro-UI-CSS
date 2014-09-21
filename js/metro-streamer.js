@@ -1,7 +1,7 @@
 (function (factory) {
         if (typeof define === 'function' && define.amd) {
             // AMD. Register as an anonymous module.
-            define(['jquery','jquery.mousewhell','jquery.widget'], factory);
+            define(['jquery','jquery.mousewhell','jquery.widget','./metro-core.js'], factory);
         } else if (typeof exports === 'object') {
             // Node/CommonJS style for Browserify
             module.exports = factory;
